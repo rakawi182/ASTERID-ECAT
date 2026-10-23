@@ -1,0 +1,71 @@
+-+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Table S10: Untimed total and annular solar eclipses - version 2020
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Table  Year   DT-U(s)   DT-L(s)   Region
+ 10   -708    +21100    +20160    China
+ 10   -600    +21900    +21120    China
+ 10   -548    +21640    +16160    China
+ 10   -309    +17160    +13300    Greek
+ 10   -197    +13020    + 6360    China
+ 10   -187    +12900    +12590    Europe
+ 10   -180    +12700    +11780    China
+ 10   -135    +12140    +11220    Babylon
+ 10   -  9    +10720     +8640    Babylon
+ 10     65     +8900     +8450    China (Luoyang)
+ 10     65     +9630     +9150    China (Guangling)
+ 10     71     +9830     +9440    Greek
+ 10    306     +7890     +6550    China
+ 10    454     +7800     +6030    China
+ 10    616     +2990     +2270    China
+ 10    761     +3260     +1700    China
+ 10    840     +6800     +1940    Europe
+ 10    873     +3740     +1820    Arab
+ 10    912     +2580      +840    Arab
+ 10    968     +2620     +1560    Europe
+ 10    975     +4480     +1160    Japan
+ 10   1061     +2140      +800    Arab
+ 10   1124     +2700      +980    Europe
+ 10   1133     +1115      +530    Europe
+ 10   1147     +1160      +280    Europe
+ 10   1176     +1600      +600    Arab
+ 10   1185    +10500     -2100    Europe
+ 10   1187     +1065       +45    Europe 
+ 10   1221      +960     -9600    China
+ 10   1239     +1105      +830    Europe
+ 10   1241     +1005      +625    Europe
+ 10   1267      +800      -900    Europe
+ 10   1275     +1280      -740    China
+ 10   1292     +1820      - 60    China
+ 10   1310     +1555      +460    Europe
+ 10   1361     +1760      +500    China
+ 10   1379     +1525      +105    Europe
+ 10   1386     +1075      -650    Europe
+ 10   1406      +900      +400    Europe
+ 10   1415      +705      +200    Europe
+ 10   1431      +680      -200    Europe
+ 10   1433      +570      +385    Europe
+ 10   1478     +1095      -725    Europe
+ 10   1485      +520      -215    Europe
+ 10   1539      +2345      -10    Europe
+ 10   1560      +210      -480    Europe
+ 10   1567      +165      +145    Europe
+ 10   1598      +245      -360    Europe
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Notes:
+     DT(s)  : Correction to the Earth's clock in seconds.
+     DT-U(s): DT Upper bound limit, seconds.
+     DT-L(s): DT Lower bound limit, seconds.
+     Upper/lower bound limits on DT depend on the eclipse phenomena.
+     Region : Where the eclipse was observed.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Updates: This list is the updated table S10-2020, which is discussed 
+by L.V. Morrison, F.R. Stephenson, C.Y. Hohenkerk and M. Zawilski, in
+their paper entitled ``Addendum 2020 to `Measurement of the Earth's
+Rotation: 720 BC to AD 2015'' published in the Royal Society 
+Proceedings A, 478, 2021, see https://doi.org/10.1098/rspa.2020.0776.
+
+The original table (S10) of observations is from the paper "Measurement 
+of the Earth's Rotation: 720 BC to AD 2015", Stephenson, F.R., Morrison, 
+L.V., and Hohenkerk, C.Y., published by Royal Society Proceedings A and 
+available from their website at https://doi.org/10.1098/rspa.2016.0404
+-+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
